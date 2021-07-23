@@ -43,8 +43,6 @@
 
 
 
-<img align="left" alt="noukaza's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?count_private=true&username=noukaza&show_icons=true&hide_border=true" />
-
 [website]: https://namrane.com
 [github]: https://github.com/noukaza
 [twitter]: https://twitter.com/noukaza
