@@ -49,5 +49,5 @@
 [website]: https://namrane.com
 [github]: https://github.com/noukaza
 [twitter]: https://twitter.com/noukaza
-[instagram]: https://instagram.com/noukazas
+[instagram]: https://instagram.com/noukaza
 [linkedin]: https://linkedin.com/in/amrane
